@@ -1,5 +1,5 @@
  <img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=F35A61&section=header&reversal=false'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=F35A61&center=true&multiline=true&width=1000&lines=Hello!!!+Welcome+to+Xplorer+dev+Verse;Full-Stack+Developer;Passionate+about+MERN+Stack+and+AWS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=F35A61&center=true&multiline=true&width=1000&lines=Hello!!+Welcome+to+the+Xplorer+dev+Verse;Full-Stack+Developer;Passionate+about+MERN+Stack+and+AWS" alt="Typing SVG" /></a>
 
 
 ## ⚡ Git Stats ⚡
